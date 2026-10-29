@@ -1,0 +1,22 @@
+{
+  "wheel_id": 515,
+  "structure": "umbrella",
+  "slug": "retainingwallipswich-com-101",
+  "project": "retaining-walls-ipswich-checklist-e38fc26dd4b7f9130f72048352acd",
+  "parent_t1_ref": "retainingwallipswich-com-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallipswich.com.au",
+  "primary_kw": "retaining walls ipswich checklist",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-ipswich-checklist-e38fc26dd4b7f9130f72048352acd/",
+  "tier": "T2",
+  "writeback_nonce": "1a840f99a7d6feac",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-ipswich-common-mistakes-7a854f07099931b66c98e76/",
+      "anchor": "Retaining Walls Ipswich Common Mistakes: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
